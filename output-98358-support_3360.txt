@@ -1,0 +1,46 @@
+Data mining
+[Apriori algorithm]
+Taeksang Kim
+Input file: 98358.TXT
+Minimum support: 3360
+
+====L1====
+Support: 3436 Set: [289]
+Support: 3851 Set: [545]
+Support: 3766 Set: [994]
+Support: 3874 Set: [293]
+Support: 4430 Set: [38]
+Support: 3724 Set: [806]
+Support: 3539 Set: [360]
+Support: 3561 Set: [808]
+Support: 5616 Set: [553]
+Support: 4310 Set: [874]
+Support: 4080 Set: [238]
+Support: 5090 Set: [432]
+Support: 5416 Set: [571]
+Support: 4156 Set: [827]
+Support: 4004 Set: [444]
+Support: 3773 Set: [764]
+Support: 3596 Set: [318]
+Support: 4622 Set: [63]
+Support: 3984 Set: [127]
+Support: 4340 Set: [707]
+Support: 4044 Set: [132]
+Support: 3402 Set: [69]
+Support: 5823 Set: [709]
+Support: 3631 Set: [647]
+Support: 3594 Set: [903]
+Support: 7141 Set: [592]
+Support: 4014 Set: [87]
+Support: 3363 Set: [471]
+Support: 4050 Set: [601]
+Support: 3462 Set: [729]
+Support: 3541 Set: [154]
+Support: 3776 Set: [988]
+Support: 4400 Set: [221]
+Support: 4097 Set: [222]
+Support: 4635 Set: [416]
+Support: 4508 Set: [800]
+Support: 3441 Set: [992]
+
+ 2435(ms)
